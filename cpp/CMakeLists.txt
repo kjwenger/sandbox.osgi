@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+project(sandbox.osgi.gateway)
+include("${CMAKE_SOURCE_DIR}/cmake/Paths.cmake")
+set(CMAKE_CXX_STANDARD 11)
+enable_testing()
+add_subdirectory(celix)
