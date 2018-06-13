@@ -1,3 +1,4 @@
-/staging/
-build*/
+/.idea/workspace.xml
 /cmake-build*/
+build*/
+/staging/
