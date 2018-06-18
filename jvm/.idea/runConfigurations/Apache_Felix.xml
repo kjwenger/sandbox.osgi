@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Apache Felix" type="#org.osmorc.OsgiConfigurationType" factoryName="OSGi Bundles" singleton="true" vmParameters="" programParameters="" includeAllBundlesInClassPath="false" workingDir="$PROJECT_DIR$/out/run.osgi/" useAlternativeJre="false" alternativeJrePath="" frameworkStartLevel="1" defaultStartLevel="5" generateWorkingDir="false">
+    <bundle name="sandbox.osgi.jvm" startLevel="1" type="Module" startAfterInstallation="true" />
+    <framework instance="Felix (5.6.10)" />
+    <additionalProperties systemPackages="" debugMode="false" startConsole="true" bootDelegation="" />
+    <method />
+  </configuration>
+</component>
