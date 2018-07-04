@@ -1,0 +1,6 @@
+Build-Jdk: 1.8.0_144
+Bundle-Activator: com.example.sandbox.osgi.impl.Activator
+Bundle-ManifestVersion: 2
+Bundle-Name: osgi.jvm
+Bundle-SymbolicName: com.example.sandbox.osgi.jvm
+Bundle-Version: 0.0.1-SNAPSHOT
